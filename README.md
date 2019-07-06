@@ -1,5 +1,10 @@
-# Call_Flooder
-1. pip3 install twilio
-2. Make a twilio account at https://www.twilio.com/try-twilio
-3. Open the Call_Flooder.py in your favorite text editor and fill in what you need to!
-4. Profit.
+# Spoon Call, Text and Email Flooder!
+This is for educational purposes only!
+# Tutorial
+pip3 install twilio
+pip3 install smtplib
+###### You will need a twilio account to use Call and Text! twilio.com/try-twilio
+git clone https://github.com/RustyBalboadev/Spoon
+cd Spoon
+python3 Spoon
+Enjoy!
